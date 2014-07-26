@@ -1,6 +1,4 @@
 1 Haba una vez una Tortuga
 2 Se salio de la cueva de tortugas y se fue a bañar
-3 Desayuno hormiguitas
-4 En la noche camino como tortuga.
-5 Soño con un tortugo 
-6 Se levanto sobresaltada
+3 En la noche camino como tortuga.
+4 Soño con un tortugo 
